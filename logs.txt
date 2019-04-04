@@ -1,0 +1,5 @@
+commit be646f73f16b5dbcd777612314379ce94ffed26b (HEAD -> logs, origin/master, master)
+Author: Milan Spasovski <smilan84@yahoo.com>
+Date:   Thu Apr 4 09:39:21 2019 +0200
+
+    Initial commit
