@@ -3,11 +3,11 @@
 using namespace std;
 
 void printMyName () {
-	//TODO
+	cout<<Ime<<endl;
 }
 
 void printMyIndex () {
-	//TODO
+	cout<<Inedex<<endl;
 }
 
 int main () {
